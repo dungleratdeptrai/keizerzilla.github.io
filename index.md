@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# EM CONSTRUÇÃO... 🚧
+
 Bem-vindo. Me chamo Artur e eu sou Engenheiro de Computação. Minha área de atuação é Reconhecimento de Padrões e Visão Computacional. Este blog não é um espaço de textos técnicos, mas de compartilhamento de ensaios em política, filosofia e sociedade a partir do prisma da tradição crítica latino-americana.
 
 Todos os ensaios encontrados aqui estão em perpétua mudança. Alguns mais explicitamente que outros, pois é comum encontrar textos inacabados. A escolha por guardá-los num lugar que salva a memória de cada mudança ocorrida tem motivação dupla:
